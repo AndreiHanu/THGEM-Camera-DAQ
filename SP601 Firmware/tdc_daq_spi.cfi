@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator P.28xd
+# Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION P.28xd
+DATE            03/06/2013 - 13:52
+SOURCE          C:\Users\Byun_MedPhys\Desktop\FPGA_Projects\TDC_DAQ\tdc_daq_spi.mcs
+DEVICE          8192K
+DATA_WIDTH      4
+FILL_DATA       0xFF
+SIGNATURE       0x789F245F
+START_ADDRESS   0x00000000 END_ADDRESS 0x00071587 DIRECTION_UP   "C:/Users/Byun_MedPhys/Desktop/FPGA_Projects/TDC_DAQ/core.bit" 6slx16csg324

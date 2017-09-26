@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj TDC_DAQ -o C:/Users/Byun_MedPhys/Desktop/FPGA_Projects/TDC_DAQ/UART_RX_Controller.tfi -lib work C:/Users/Byun_MedPhys/Desktop/FPGA_Projects/TDC_DAQ//UART_RX_Controller.v -module UART_RX_Controller -template C:/Xilinx/14.2/ISE_DS/ISE//data/tfi.tft -deleteonerror 

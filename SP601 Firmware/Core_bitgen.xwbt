@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Byun_MedPhys\Desktop\FPGA_Projects\TDC_DAQ\Core.ncd
+OUTFILE=C:\Users\Byun_MedPhys\Desktop\FPGA_Projects\TDC_DAQ\Core.bit
+FAMILY=Spartan6
+PART=xc6slx16-2csg324
+WORKINGDIR=C:\Users\Byun_MedPhys\Desktop\FPGA_Projects\TDC_DAQ
+LICENSE=WebPack
+USER_INFO=205065381_0_0_551

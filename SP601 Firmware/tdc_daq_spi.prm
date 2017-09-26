@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.28xd
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o C:\Users\Byun_MedPhys\Desktop\FPGA_Projects\TDC_DAQ//tdc_daq_spi -s 8192 -u 0000 C:/Users/Byun_MedPhys/Desktop/FPGA_Projects/TDC_DAQ/core.bit -spi 
+
+PROM C:\Users\Byun_MedPhys\Desktop\FPGA_Projects\TDC_DAQ\tdc_daq_spi.prm map: Wed Mar 06 13:52:37 2013
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          8192K
+PROM start    0000:0000
+PROM end      007f:ffff
+PROM checksum 789f245f
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0007:1587     Mar 06 13:50:31 2013 C:/Users/Byun_MedPhys/Desktop/FPGA_Projects/TDC_DAQ/core.bit
